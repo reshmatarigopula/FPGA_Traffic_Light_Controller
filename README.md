@@ -36,5 +36,5 @@ The state transitions are controlled by a clock signal and reset input.
 - Digital Design and FSM Implementation
 
 ## Author
-Reshma Tharigopula
+Reshma Tarigopula
 B.Tech ECE Student
